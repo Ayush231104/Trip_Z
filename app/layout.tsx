@@ -38,7 +38,9 @@ export default function RootLayout({
       >
         <ResponsiveNav/> 
         {children}
+        <section id="footer" className="scroll-mt-3">
         <Footer/>
+      </section>
         <ScrollToTop/>
       </body>
     </html>
