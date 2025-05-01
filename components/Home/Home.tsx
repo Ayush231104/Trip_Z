@@ -31,22 +31,22 @@ const Home = () => {
       <section id="hero">
         <Hero />
       </section>
-      <section id="destination" className="scroll-mt-10">
+      <section id="destination" className="scroll-mt-10 delay-0">
         <Destination />
       </section>
-      <section id="hotel" className="scroll-mt-10">
+      <section id="hotel" className="scroll-mt-10 delay-0">
         <Hotel />
       </section>
-      <section id="whychoose" className="scroll-mt-10">
+      <section id="whychoose" className="scroll-mt-10 delay-0"> 
         <WhyChoose />
       </section>
-      <section id="review" className="scroll-mt-10">
+      <section id="review" className="scroll-mt-10 delay-0">
         <Reviews />
       </section>
-      <section id="news" className="scroll-mt-10">
+      <section id="news" className="scroll-mt-10 delay-0">
         <News />
       </section>
-      <section id="newsletter" className="scroll-mt-10">
+      <section id="newsletter" className="scroll-mt-10 delay-0">
         <NewsLetter />
       </section>
     </div>
