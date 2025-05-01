@@ -4,9 +4,10 @@ import React from "react";
 type Props = {
   image: string;
   title: string;
+  subTitle: string;
 };
 
-const WhyChooseCard = ({ image, title }: Props) => {
+const WhyChooseCard = ({ image, title, subTitle }: Props) => {
   return (
     <div>
       {/* image */}
@@ -22,7 +23,7 @@ const WhyChooseCard = ({ image, title }: Props) => {
         {title}
       </h1>
       <p className="mt-2 text-center text-xs font-medium text-gray-700">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, odio?
+        {subTitle}
       </p>
     </div>
   );

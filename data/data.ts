@@ -143,6 +143,7 @@ export const destinationData = [
       review:
         "The service exceeded my expectations. The team was professional, and I couldn't be happier with the results. Highly recommended to everyone!",
       image: "/images/u1.png",
+      field: "Web Devloper",
     },
     {
       id: 2,
@@ -150,6 +151,7 @@ export const destinationData = [
       review:
         "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
       image: "/images/u2.jpg",
+      field: "Frontend Developer",
     },
     {
       id: 3,
@@ -157,40 +159,46 @@ export const destinationData = [
       review:
         "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
       image: "/images/u3.jpg",
+      field: "Backend Developer",
     },
     {
       id: 4,
       name: "Emily Davis",
       review:
         "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
-      image: "/images/u1.png",
+      image: "/images/u4.png",
+      field: "UI/UX Designer",
     },
     {
       id: 5,
       name: "Chris Wilson",
       review:
         "Amazing service! They exceeded all expectations and delivered a product that I am extremely happy with. The communication throughout the project was excellent.",
-      image: "/images/u2.jpg",
+      image: "/images/u5.png",
+      field: "DevOps Engineer",
     },
     {
       id: 6,
       name: "Sarah Johnson",
       review:
         "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
-      image: "/images/u3.jpg",
+      image: "/images/u6.png",
+      field: "Mobile Web Developer ",
     },
     {
       id: 7,
       name: "David Lee",
       review:
         "Absolutely incredible service! The team was supportive and responsive, making sure everything was perfect. I will definitely recommend them to my friends.",
-      image: "/images/u1.png",
+      image: "/images/u7.png",
+      field: "Web Security Specialist",
     },
     {
       id: 8,
       name: "Sophia White",
       review:
         "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
-      image: "/images/u2.jpg",
+      image: "/images/u8.png",
+      field: "CMS Developer",
     },
   ];

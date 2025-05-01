@@ -5,9 +5,10 @@ import HotelCard from './HotelCard'
 
 const Hotel = () => {
   return (
-    <div className='pt-20 pb-20'>
+    <div className=' pb-20'>
       {/* Section Heading */}
-      <SectionHeading heading='Recommend Hotels' />
+      <SectionHeading heading='Recommend Hotels' subTitle='Top-rated stays selected for you,
+comfort and quality guaranteed.'/>
       <div className="w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8
       items-center mt-16 ">
         {/* Hotel card */}
