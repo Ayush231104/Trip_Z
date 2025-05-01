@@ -15,7 +15,7 @@ handpicked for your perfect getaway."/>
         <div className="mx-3" data-aos="fade-left" data-aos-anchor-placement="top-center">
           <NewsCard
             image="/images/n1.jpg"
-            title="Top 10 place to visit in Australia"
+            title="Top 10 place to you must visit in Australia"
             date="15 November 2024"
           />
         </div>
@@ -28,7 +28,7 @@ handpicked for your perfect getaway."/>
         </div>
         <div className="mx-3" data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
           <NewsCard
-            image="/images/n4.jpg"
+            image="/images/n3.png"
             title="Top 10 place to visit in best country India"
             date="21 November 2025"
           />
